@@ -1,0 +1,16 @@
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\bin\Debug\Civil.exe
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.BirthRegister.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.BirthRegisterDownload.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.DeathRegister.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.Login.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.Main.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.Properties.Resources.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.Register.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.csproj.GenerateResource.Cache
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.exe
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.pdb
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.DeathRegisterDownload.resources
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\bin\Debug\Civil.pdb
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.csproj.AssemblyReference.cache
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\obj\Debug\Civil.csproj.CoreCompileInputs.cache
+C:\Users\annat\Documents\Visual Studio 2008\Projects\Civil\Civil\bin\Debug\Civil.exe.config
